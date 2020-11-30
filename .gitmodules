@@ -1,0 +1,3 @@
+[submodule "src/handyhelpers"]
+	path = src/handyhelpers
+	url = https://github.com/JamesPerisher/handyhelpers.git
